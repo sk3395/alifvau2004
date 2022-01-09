@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-
+#Alif Vau
 #USE YOUR BRAIN MAKE GOOGLE YOUR FRIEND :)
 #
 #input('Alif Vau Will Started Now')
@@ -128,7 +128,7 @@ def menu():
   print(" [4] see crack result")
   print(" [5] check the crack result option")
   print(" [6] user-agent settings")
-  print("[ ALIF VAU ]")
+  print("-----------[ ALIF VAU ]------------- ")
   print(" [\033[0;91m0\033[0;97m] exit (remove token)")
   emon = raw_input("\n [?] choose : ")
   if emon == "":
