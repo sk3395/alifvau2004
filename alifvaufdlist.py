@@ -124,11 +124,11 @@ def menu():
   print(" [ Welcome \033[0;93m%s\033[0;97m ]\n"%(nama))
   print(" [1] crack from public friend")
 """
-  #print(" [2] crack from public followers")
-  #print(" [3] crack from multi target ")
-  #print(" [4] see crack result")
-  #print(" [5] check the crack result option")
-  #print(" [6] user-agent settings")
+  print(" [2] crack from public followers")
+  print(" [3] crack from multi target ")
+  print(" [4] see crack result")
+  print(" [5] check the crack result option")
+  print(" [6] user-agent settings")
 """
   print("-----------[ ALIF VAU ]------------- ")
   print(" [\033[0;91m0\033[0;97m] exit (remove token)")
